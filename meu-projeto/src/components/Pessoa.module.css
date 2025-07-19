@@ -1,8 +1,7 @@
-.container{
-    background-color: rgb(18, 18, 128);
+.conteudo{
+    background-color: rgb(224, 40, 40);
     padding: 10px;
     border-radius: 5px;
-    margin-bottom: 20px;
 }
 
 h3{
