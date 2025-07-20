@@ -1,12 +1,13 @@
-import Frase from "./Frase"
+import MyName from "./MyName";
 
 function HelloWorld(){
     return(
         <div>
             <h1>Meu primeiro componente!</h1>
-            <Frase/>
+            <MyName name="Leonardo" />
+            <MyName name="Roberto" />
         </div>
     )
 }
 
-export default HelloWorld
+export default HelloWorld;
