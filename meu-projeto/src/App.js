@@ -5,7 +5,7 @@ import Saudacao from './components/Saudacao';
 
 function App() {
 
-  const [nome, setNome] = useState()
+  const [nome, setNome] = useState();
   
   return (
     <div className='App'>
