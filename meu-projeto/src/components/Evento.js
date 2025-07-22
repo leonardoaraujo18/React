@@ -1,6 +1,6 @@
 import Button from "./evento/Button";
 
-function Evento({numero}){
+function Evento(){
 
     function meuEvento(){
         alert("Primeiro Evento ativado!")
